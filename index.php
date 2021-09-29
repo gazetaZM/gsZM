@@ -3,7 +3,7 @@
      if (lcfirst ($_POST['key'])=="herbata")
      {
        $haslo=1;
-       //header("Location: nastepna-zagadka.php");
+       //header("Location: /2z5-gofry/");
      }else {
        header("Location: zle.php");
      }
